@@ -14,7 +14,7 @@ Add Following in your app level gradle
 
 ```
 dependencies {
-	        implementation 'com.github.anil-kumar-singh:AppLogger-Android:1.0'
+	        implementation 'com.github.anil-kumar-singh:AppLogger-Android:1.0.1'
 	}
 ````
 
